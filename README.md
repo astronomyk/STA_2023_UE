@@ -10,7 +10,7 @@ Topics info from Glenn and Sudeshna can be [found here](https://docs.google.com/
 - 4× exercise sheets related to the lecture topics (20 points)
 - 1× Mini project (20 points)
 
-## What the students should have learnt by the end of semester
+## What the students should learn by the end of semester
 
 (Add thoughts here)
 
@@ -23,13 +23,14 @@ Topics info from Glenn and Sudeshna can be [found here](https://docs.google.com/
 
 ### Programming and tools
 
-- How to use Python, `numpy`, `astropy`, `matplotlib`
+- How to use Python, `numpy`, `scipy`, `astropy`, `matplotlib`
 - How to use Jupyter notebooks
 - Why and how to use GitHub
-- Why not to use Excel
+- When, why and how not to use Excel
 
 ### Other skills
 
+- Summarizing results in a comprehensible way
 - Presenting results and work to audiences
 
 ## Grading
