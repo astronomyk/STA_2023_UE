@@ -35,7 +35,7 @@ Topics info from Glenn and Sudeshna can be [found here](https://docs.google.com/
 
 ## Grading
 
-Projects can be submitted on paper, as a word doc, or as a jupyter notebook. Latex docs are also of course welcome.
+Projects must be submitted as a jupyter notebook.
 
 The final report must be written similar to a scientific report with the following sections:
 
@@ -47,7 +47,8 @@ The final report must be written similar to a scientific report with the followi
 1. Tasks for Hypothesis testing
 1. Tasks for Linear regression
 1. Discussion of meaning of the results
-1. The use acceptable scientific writing standards (label and refer to figures, citations, etc)
+
+The reports must adhere with general scientific writing standards (label and refer to figures, citations, etc)
 
 Additional points will be awarded for:
 
