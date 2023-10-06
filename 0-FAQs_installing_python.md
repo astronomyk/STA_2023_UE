@@ -17,50 +17,59 @@ Please note:
 
 ## FAQs for the introduction to Python
 
-**What is the command line?**
+### What is the command line?
 
-Answer: That black box with green text used by hackers and computer gurus
+Answer: That black box with green text used by hackers and computer gurus. Might be white or off-white too.
 
-**How to I open the command line**
+### How do I open the command line?
 
 Answer (Windows): Windows key. Type `cmd`. Hit enter.
 
 Answer (Apple Macs): ??? 
 
-**Do I need PyCharm or any other IDE (e.g. Spyder)?**
+### Do I need PyCharm or any other IDE (e.g. Spyder)?
+Answer: No. For STA_2023W you will only need Jupyter Lab for running python notebooks.
+But there is no harm in using it and it might make your life easier at times.
 
-Answer: No. For STA_2023W you will only need Jupyter Lab for running python notebooks
-
-**Python runs from Windows start menu, but not from the command line**
-
+### Python runs from Windows start menu, but not from the command line
 Answer: Reinstall python and click the "Add Python to PATH" box 
 
-See Step 3 of https://linuxhint.com/add-python-windows-path/
+See Step 3 of <https://linuxhint.com/add-python-windows-path/>
 
-**I have no `pip` on my laptop to install extra packages**
+### I have no `pip` on my laptop to install extra packages
+Answer: In command line type: 
 
-Answer: In command line type: `$ python -m ensurepip --upgrade`
+    $ python -m ensurepip --upgrade
 
-https://pip.pypa.io/en/stable/installation/
+<https://pip.pypa.io/en/stable/installation/>
 
-**Pip install error: `Microsoft Visual C++ 14.0 required`**
-
+### Pip install error: `Microsoft Visual C++ 14.0 required`
 Answer: Install certain elements of Visual Studio
 
-https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst
+<https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst>
 
-**Pip install error: `Rust not found - "Cargo, the Rust package manager, is not installed or is not on PATH"`**
+### Pip install error: `Rust not found - "Cargo, the Rust package manager, is not installed or is not on PATH"`
 
-Answer: Install Rust via https://rustup.rs/
+Answer: Install Rust via <https://rustup.rs/>
 
-**How to start Python**
+### How to start Python?
+Answer: In command line type:
+    
+    $ python
 
-Answer : In command line type: `$ python`
+### How to start Jupyter Lab?
+Answer: In command line type:
 
-**How to start Jupyter Lab**
+    $ jupyter lab
 
-Answer : In command line type: `$ jupyter lab`
+### How to check whether 3rd-party packages are installed
+Answer: In python import the packages
 
-**How to check 3rd-party packages are installed**
+    >>> import astropy
 
-Answer : In python import the packages: `>>> import astropy`
+If nothing happens, your packages are installed, otherwise Python complains
+
+    >>> import doesnotexist
+    Traceback (most recent call last):
+    File "<stdin>", line 1, in <module>
+    ModuleNotFoundError: No module named 'doesnotexist'
