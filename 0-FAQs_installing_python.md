@@ -67,9 +67,11 @@ Answer: In python import the packages
 
     >>> import astropy
 
-If nothing happens, your packages are installed, otherwise Python complains
+If the package is installed, nothing will be printed and
+you can now use all the functionality from the `astropy` module.
+Otherwise, if a package is not installed, Python will complain:
 
-    >>> import doesnotexist
+    >>> import does_not_exist
     Traceback (most recent call last):
     File "<stdin>", line 1, in <module>
-    ModuleNotFoundError: No module named 'doesnotexist'
+    ModuleNotFoundError: No module named 'does_not_exist'
