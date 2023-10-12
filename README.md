@@ -1,6 +1,7 @@
 # STA_2023_UE
 
 Schedule spreadsheet can be [found here](https://docs.google.com/spreadsheets/d/1LHgn-6vpLq-2w-2okkrFyyB193VDVzfF/edit?usp=sharing).
+
 Topics info from Glenn and Sudeshna can be [found here](https://docs.google.com/document/d/17kYLPVjo3iKV0cb6fm0pJN9in13OX_zRBzmIGHlX5Lc/edit?usp=sharing).
 
 ## Sections of the course

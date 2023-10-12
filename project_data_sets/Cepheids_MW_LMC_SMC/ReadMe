@@ -1,0 +1,185 @@
+J/ApJ/913/38     Compilation of Cepheids in the MW and MCs     (Breuval+, 2021)
+================================================================================
+The influence of metallicity on the Leavitt law from geometrical distances of
+Milky Way and Magellanic Cloud Cepheids.
+    Breuval L., Kervella P., Wielgorski P., Gieren W., Graczyk D., Trahin B.,
+    Pietrzynski G., Arenou F., Javanmardi B., Zgirski B.
+   <Astrophys. J., 913, 38-38 (2021)>
+   =2021ApJ...913...38B    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Stars, variable; Photometry, UBVRI; Stars, distances; Milky Way;
+              Abundances, [Fe/H]; Parallaxes, trigonometric; Magellanic Clouds
+Keywords: Cepheid distance; Parallax; Metallicity; Magellanic Clouds
+          Milky Way Galaxy
+
+Abstract:
+    The Cepheid period-luminosity (PL) relation is the key tool for
+    measuring astronomical distances and for establishing the
+    extragalactic distance scale. In particular, the local value of the
+    Hubble constant (H_0_) strongly depends on Cepheid distance
+    measurements. The recent Gaia Data Releases and other parallax
+    measurements from the Hubble Space Telescope (HST) already enabled us
+    to improve the accuracy of the slope ({alpha}) and intercept ({beta})
+    of the PL relation. However, the dependence of this law on metallicity
+    is still largely debated. In this paper, we combine three samples of
+    Cepheids in the Milky Way (MW), the Large Magellanic Cloud (LMC), and
+    the Small Magellanic Cloud (SMC) in order to derive the metallicity
+    term (hereafter {gamma}) of the PL relation. The recent publication of
+    extremely precise LMC and SMC distances based on late-type detached
+    eclipsing binary systems provides a solid anchor for the Magellanic
+    Clouds. In the MW, we adopt Cepheid parallaxes from the early third
+    Gaia Data Release. We derive the metallicity effect in V, I, J, H,
+    K_S_, W_VI_, and W_JK_. In the K_S_ band we report a metallicity
+    effect of -0.221+/-0.051mag/dex, the negative sign meaning that more
+    metal-rich Cepheids are intrinsically brighter than their more
+    metal-poor counterparts of the same pulsation period.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .   This file
+table3.dat      67      188   Sample of Milky Way Cepheids and main parameters
+table4.dat      92      222   Optical and NIR mean apparent magnitudes for
+                               the sample of Milky Way Cepheids
+table5.dat     131     1519   Sample of Large Magellanic Cloud Cepheids and
+                               their main parameters
+table6.dat     131      300   Sample of Small Magellanic Cloud Cepheids and
+                               their main parameters
+--------------------------------------------------------------------------------
+
+See also:
+ B/vsx  : AAVSO International Variable Star Index VSX (Watson+, 2006-)
+ II/246 : 2MASS All-Sky Catalog of Point Sources (Cutri+ 2003)
+ II/285 : Photoelectric observations of Cepheids in UBV(RI)c (Berdnikov, 2008)
+ I/350  : Gaia EDR3 (Gaia Collaboration, 2020)
+ J/AcA/49/543  : OGLE LMC & SMC Cepheids VI photometry (Pietrzynski+, 1999)
+ J/AcA/51/221  : OGLE-II. Cepheids in IC 1613 (Udalski+, 2001)
+ J/AJ/128/2239 : JHKs photometry of 92 LMC Cepheids (Persson+, 2004)
+ J/ApJ/652/1133   : BVI photometry of NGC 4258 Cepheids (Macri+, 2006)
+ J/MNRAS/386/2115 : Type II Cepheid and RR Lyrae variables (Feast+, 2008)
+ J/AcA/58/313  : LMC Cepheids in OGLE and MACHO data (Poleski+, 2008)
+ J/ApJS/193/12 : JHK photometry of Northern Galactic Cepheids (Monson+, 2011)
+ J/AJ/142/51   : Galactic Cepheids abundance variations (Luck+, 2011)
+ J/A+A/534/A94 : Milky Way Cepheids radial velocities (Storm+, 2011)
+ J/A+A/534/A95 : LMC Cepheids radial velocities (Storm+, 2011)
+ J/AJ/142/136  : Spectroscopy of Cepheids. l=30-250{deg} (Luck+, 2011)
+ J/MNRAS/420/1590 : Abundances of classical Cepheids (Acharova+, 2012)
+ J/A+A/554/A132   : Iron line list (FeI and FeII) (Genovali+, 2013)
+ J/A+A/566/A37 : Iron abundances for 42 Galactic Cepheids (Genovali+, 2014)
+ J/AcA/65/233  : OGLE Magellanic Clouds anomalous Cepheids (Soszynski+, 2015)
+ J/AJ/149/117  : LMC infrared survey. I. Photometry of Cepheids (Macri+, 2015)
+ J/A+A/580/A17 : {alpha}-element abundances of Cepheid stars (Genovali+, 2015)
+ J/ApJS/224/21 : The VMC survey. XIX. Classical Cepheids in SMC (Ripepi+, 2016)
+ J/ApJ/826/56  : HST/WFC3 obs. of Cepheids in SN Ia host gal. (Riess+, 2016)
+ J/ApJ/832/176 : Classical Cepheids in MCs. I. LMC disk (Inno+, 2016)
+ J/ApJ/842/42  : Improved reddenings for 59 Galactic Cepheids (Madore+, 2017)
+ J/MNRAS/472/808 : YJKs light curves of SMC Classical Cepheids (Ripepi+, 2017)
+ J/AJ/156/171  : Cepheid abundances (Luck, 2018)
+ J/A+A/619/A8  : Cepheid PL-metallicity relation (Groenewegen, 2018)
+ J/A+A/620/A99 : SMC Cepheids K-band and RV curves (Gieren+, 2018)
+ J/A+A/623/A72 : Binarity of HIP stars from Gaia pm anomaly (Kervella+, 2019)
+ J/A+A/625/A14 : Reclassification of Cepheids in the Gaia DR2 (Ripepi+, 2019)
+ J/ApJ/876/85  : HST observations for LMC Cepheids (Riess+, 2019)
+ J/ApJ/911/12  : HST opt-NIR obs. of Cepheids in NGC5584 (Javanmardi+, 2021)
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1- 11 A11    ---     Name    Cepheid identifier
+  13- 18 F6.3   d       Per     [2.7/51.8] Period
+  20- 24 F5.3   mas     plx     [0.1/2.9] Gaia EDR3 parallax
+                                 (includes zero point correction)
+  26- 30 F5.3   mas   e_plx     [0.01/0.15] Uncertainty in plx
+  32- 35 F4.2   ---     RUWE    [0.7/1.4] Renormalised Unit Weight Error
+  37- 41 F5.3   mag     E(B-V)  [0.086/1.55] The (B-V) color excess
+  43- 47 F5.3   mag   e_E(B-V)  [0.003/0.25] Uncertainty in E(B-V)
+  49- 51 A3     ---   r_E(B-V)  Reference code for E(B-V) (1)
+  53- 57 F5.2   [Sun]   [Fe/H]  [-0.33/0.55] Metallicity
+  59- 62 F4.2   [Sun] e_[Fe/H]  [0.03/0.3] Uncertainty in [Fe/H]
+  64- 67 A4     ---   r_[Fe/H]  Reference code for [Fe/H] (1)
+--------------------------------------------------------------------------------
+Note (1): E(B-V) and [Fe/H] reference code as follows:
+    A12 = Acharova et al. (2012, J/MNRAS/420/1590)
+    F95 = Fernie et al. (1995IBVS.4148....1F) multiplied by 0.94.
+    G14 = Genovali et al. (2014, J/A+A/566/A37).
+   G14b = from the literature (
+          Genovali et al. (2013, J/A+A/554/A132);
+          Lemasle et al. (2007A&A...467..283L);
+          Luck et al. (2011, J/AJ/156/171);
+          Luck & Lambert (2011, J/AJ/142/136);
+          Pedicelli et al. (2010A&A...518A..11P);
+          Romaniello et al. (2008A&A...448..731R);
+          Sziladi et al. (2007A&A...473..579S);
+          Yong et al. (2006AJ....131.2256Y)
+          ) rescaled to Genovali+ (2014, J/A+A/566/A37) solar abundance.
+    G15 = Genovali et al. (2015, J/A+A/580/A17).
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1- 11 A11    ---     Name   Cepheid identifier
+  13- 18 F6.3   mag     Vmag   [3.7/11.92]? Mean apparent V band magnitude
+                                without reddening correction (2)
+  20- 24 F5.3   mag   e_Vmag   [0.006/0.3]? Uncertainty in Vmag (3)
+  26- 31 F6.3   mag     Imag   [2.5/10.6]? Mean apparent I band magnitude
+                                without reddening correction (2)
+  33- 37 F5.3   mag   e_Imag   [0.006/0.05]? Uncertainty in Imag (3)
+  39- 43 F5.3   mag     Jmag   [1.67/9.35]? Mean apparent H band magnitude
+                                without reddening correction
+  45- 49 F5.3   mag   e_Jmag   [0.006/0.04]? Uncertainty in Jmag (3)
+  51- 55 F5.3   mag     Hmag   [1.21/8.96]? Mean apparent H band magnitude
+                                without reddening correction
+  57- 61 F5.3   mag   e_Hmag   [0.006/0.03]? Uncertainty in Hmag (3)
+  63- 67 F5.3   mag     Ksmag  [1.05/8.81]? Mean apparent Ks band magnitude
+                                without reddening correction
+  69- 73 F5.3   mag   e_Ksmag  [0.006/0.03]? Uncertainty in Ksmag (3)
+  75- 92 A18    ---     NIR    NIR reference code (s) (4)
+--------------------------------------------------------------------------------
+Note (2): Johnson-Cousins V and I magnitudes from Berdnikov (2008, Cat. II/285)
+Note (3): The uncertainties are only the random errors and do not include
+          photometric zero point errors.
+Note (4): NIR reference code as follows:
+    B97 = Barnes et al. (1997PASP..109..645B)
+    F08 = Feast et al. (2008, J/MNRAS/386/2115)
+    L92 = Laney & Stobie (1992A&AS...93...93L)
+    M11 = Monson & Pierce (2011, J/ApJS/193/12)
+    W84 = Welch et al. (1984ApJS...54..547W)
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table[56].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+  1-  17 A17    ---     Star   Cepheid identifier
+ 19-  24 F6.3   d       Per    [2.5/48.4] Period
+ 26-  32 F7.4   deg     RAdeg  Right Ascension in decimal degrees (J2000)
+ 34-  41 F8.4   deg     DEdeg  Declination in decimal degrees (J2000)
+ 43-  49 F7.4   kpc     Dist   [48.5/63.9] Distance (1)
+ 51-  56 F6.4   kpc   e_Dist   [0.5/1] Uncertainty in Dist
+ 58-  63 F6.3   mag     Vmag   [0/19]? Apparent mean V band magnitude (2)
+ 65-  68 F4.2   mag   e_Vmag   [0/0.02]? Uncertainty in Vmag
+ 70-  75 F6.3   mag     Imag   [12/17.3]? Apparent mean I band magnitude (2)
+ 77-  80 F4.2   mag   e_Imag   [0.02]? Uncertainty in Imag
+ 82-  87 F6.3   mag     Jmag   [10.75/16.1]? Apparent mean J band magnitude (2)
+ 89-  93 F5.3   mag   e_Jmag   [0.002/0.2]? Uncertainty in Jmag
+ 95- 100 F6.3   mag     Hmag   [10.42/15.02]? Apparent mean H band magnitude (2)
+102- 106 F5.3   mag   e_Hmag   [0.01/0.2]? Uncertainty in Hmag
+108- 113 F6.3   mag     Ksmag  [10.32/15.6]? Apparent mean Ks band magnitude (2)
+115- 119 F5.3   mag   e_Ksmag  [0.002/0.2]? Uncertainty in Ksmag
+121- 125 F5.3   mag     E(B-V) [0.074/0.3] The (B-V) color excess
+127- 131 F5.3   mag   e_E(B-V) [0.015/0.017] Uncertainty in E (B-V)
+--------------------------------------------------------------------------------
+Note (1): Corrected for their position in the LMC by the equations provided
+          in Section 3.2 or in the SMC by equations provided in Section 3.3.
+Note (2): Not corrected for the reddening.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                  Prepared by [AAS], Emmanuelle Perret [CDS]    25-Nov-2022

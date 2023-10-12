@@ -19,9 +19,9 @@ Please note:
 
 **What is the command line?**
 
-Answer: That black box with green text used by hackers and computer gurus
+Answer: That black box with green text used by hackers and computer nerds
 
-**How to I open the command line**
+**How to open the command line**
 
 Answer (Windows): Windows key. Type `cmd`. Hit enter.
 
